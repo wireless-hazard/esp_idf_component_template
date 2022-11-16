@@ -11,7 +11,7 @@ set(COMPONENT_SRCS
     "src/modbus_master.cpp"
     "src/modbus_utils.cpp")
 ```
-and then you have to give your library folder name as the name registered in the **CMakeLists.txt** as well
+and then you have to give your library's folder name as the name registered in the **CMakeLists.txt** as well
 
 Ex:
 
